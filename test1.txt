@@ -1,0 +1,3 @@
+1st exersise=> create repo named My-dev in github
+on desktop=> right click=>Gitbash here=>code .
+=>it will open vscode. created test1.txt in My-dev folder
